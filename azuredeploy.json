@@ -33,7 +33,7 @@
     },
     "ubuntuOSVersion": {
       "type": "string",
-      "defaultValue": "UbuntuLTS",
+      "defaultValue": "18.04-LTS",
       "allowedValues": [
         "UbuntuLTS",
         "18.04-LTS"
